@@ -9,5 +9,6 @@ The raw files are in `./magnet-data`.
 
 The gathered data was analyzed using matplotlib.pyplot, numpy, and scipy.stats. 
 
-## Figures
-Check `./figs` for .png files of the data from each of the results. 
+## Outputs
+Check `./figs/` for .png files of the data from each of the results. 
+The subdirectory `./out/` contains csv files of each dataset where the first row is the mean, the second row is the standard deviation, and the third row is the chisquared values.
