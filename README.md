@@ -8,3 +8,6 @@ Each test was run for 5 seconds 5 times, and then exported to a .csv file.
 The raw files are in `./magnet-data`.
 
 The gathered data was analyzed using matplotlib.pyplot, numpy, and scipy.stats. 
+
+## Figures
+Check `./figs` for .png files of the data from each of the results. 
